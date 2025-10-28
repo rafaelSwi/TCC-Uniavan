@@ -1,0 +1,1 @@
+ /Users/rafaelns/Desktop/tcc/FenixFlutter/.dart_tool/flutter_build/82e3e513f5b25de1897562ed804a6d7b/native_assets.json: 

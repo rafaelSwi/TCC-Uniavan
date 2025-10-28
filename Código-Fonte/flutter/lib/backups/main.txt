@@ -1,0 +1,41 @@
+import 'package:flutter/material.dart';
+import 'widgets/text.dart';
+import 'widgets/fields.dart';
+
+void main() {
+  runApp(MaterialApp(
+    home: Scaffold(
+      backgroundColor: Colors.amber,
+      body: Container(
+        decoration: const BoxDecoration(
+          gradient: LinearGradient(
+            colors: [Colors.amber, Colors.orange],
+            begin: Alignment.center,
+          ),
+        ),
+        child: const Center(
+            child: Column(
+          children: [
+            //Image.asset('lib/assets/images/generic_logo.png'),
+            MegaObraTitle(text: "MegaObra"),
+            MegaObraDefaultText(text: "Acesso com Credenciais"),
+            Padding(
+              padding: EdgeInsets.all(8.0),
+            ),
+            SizedBox(
+              width: 450,
+              child: MegaObraFieldCpf(),
+            ),
+            Padding(
+              padding: EdgeInsets.all(8.0),
+            ),
+            SizedBox(
+              width: 450,
+              child: MegaObraFieldPassword(),
+            )
+          ],
+        )),
+      ),
+    ),
+  ));
+}

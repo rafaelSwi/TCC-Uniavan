@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/window_size-primary.dia",
+    "emit-module-dependencies" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/window_size-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/window_size-primary-emit-module.dia",
+    "pch" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/window_size-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/window_size-primary.swiftdeps"
+  },
+  "/Users/rafaelns/.pub-cache/git/flutter-desktop-embedding-eb3964990cf19629c89ff8cb4a37640c7b3d5601/plugins/window_size/macos/Classes/WindowSizePlugin.swift" : {
+    "const-values" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin.swiftconstvalues",
+    "dependencies" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin.d",
+    "diagnostics" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin.o",
+    "llvm-bc" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin.bc",
+    "object" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin.o",
+    "swift-dependencies" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin.swiftdeps",
+    "swiftmodule" : "/Users/rafaelns/Desktop/tcc/FenixFlutter/build/macos/Build/Intermediates.noindex/Pods.build/Debug/window_size.build/Objects-normal/arm64/WindowSizePlugin~partial.swiftmodule"
+  }
+}
